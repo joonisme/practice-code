@@ -10,7 +10,6 @@ nav ul {
     padding:0;
     margin:0;
 }
-
 nav li {
     font-size: 1.2em;
     line-height: 40px;
@@ -18,13 +17,11 @@ nav li {
     display: inline-block;
     margin: 2.5%;
 }
-
 nav a {
     text-decoration: none;
     color: #fff;
     display: block;
 }
-
 nav a:hover {
     background-color: #fff;
     color: #4a4a4f;
@@ -35,13 +32,11 @@ nav a:hover {
         margin-left: 10%;
         margin-bottom: 10%;
     }
-
 .card a {
     text-align: center;
 }
 img {width: 100%;
      height: 100px;           
 }
-
 h2 {text-align:center;
 }
